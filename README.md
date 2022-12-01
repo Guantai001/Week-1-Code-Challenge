@@ -22,7 +22,8 @@
 
 ### Challenge 2
 #### Speed Detector (Toy Problem)
-    The program is a speed detector for motor vehicles. You are able to input the speed of the vehicle then if prints if the speed is "OK" or you exceed the speed.When you exceed the speed you get points that later make your “License suspended”.
+    The program is a speed detector for motor vehicles. You are able to input the speed of the vehicle then if prints if the speed is "OK" or
+    you exceed the speed.When you exceed the speed you get points that later make your “License suspended”.
 
     The Projects has two files, HTML and JAVASCRIPT.the HTML file is where you input the speed and the result are given out. And the JAVASCRIPT file is where the program functionality is.
 
@@ -32,7 +33,8 @@
 
 ### Challenge 3
 ####  Net Salary Calculator (Toy Problem)
-    The program is used to calculate your Net Salary.Once the net salary in input it calculates and shows you the Gross Salary Payee NSSF Deductions and Total deductions.
+    The program is used to calculate your Net Salary.Once the net salary in input
+   it calculates and shows you the Gross Salary Payee NSSF Deductions and Total deductions.
     Its just a JavaScript program file.
 
 
