@@ -41,9 +41,9 @@
 
 ### Technologies Used
      -> HTML
-       -> CSS
-         -> JavaScript
-             -> VisualStudio Code
+     -> CSS
+     -> JavaScript
+    -> VisualStudio Code
 
 
 
