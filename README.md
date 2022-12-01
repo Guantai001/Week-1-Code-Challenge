@@ -2,7 +2,7 @@
 (Toy Problem)
 
 
-#### This project is divided into 3 Parts and there folders are named as;
+#####  This project is divided into 3 Parts and there folders are named as;
          -> Challenge 1 : Which is a Student Grade Generotor.
          -> Challenge 2 : Which is a Speed Detector.
          -> Challenge 3 : Which is a Net Salary Calculator.
