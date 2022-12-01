@@ -52,7 +52,7 @@
 
 
 ### Licence
-Licensee under [MIT-LICENSE]() CopyRight (c) 2022 Guantai JohnPaul
+Licensee under [MIT-LICENSE](https://github.com/Guantai001/Week-1-Code-Challenge/blob/main/license) CopyRight (c) 2022 Guantai JohnPaul
 
 
 
