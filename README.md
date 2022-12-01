@@ -43,7 +43,16 @@
      -> HTML
      -> CSS
      -> JavaScript
-    -> VisualStudio Code
+     -> VisualStudio Code
+
+
+### Author
+       - Guantai JohnPaul
+       - Email: jpguantai@gmail.com
+
+
+### Licence
+Licensee under [MIT-LICENSE]() CopyRight (c) 2022 Guantai JohnPaul
 
 
 
