@@ -15,7 +15,8 @@ function salary(basicSalary, benefits) {
     
     let netSalary = grossSalary - totalDeductions;
 
-    return "Gross Salary:" + grossSalary + " ,Payee:" + payee + " ,NSSF Deductions:" + nssfDeductions + ",NHIF Deductions:" + nhifDeductions + ",Total Deductions:"
+    return "Gross Salary:" + grossSalary + " ,Payee:" + payee + " ,NSSF Deductions:"
+     + nssfDeductions + ",NHIF Deductions:" + nhifDeductions + ",Total Deductions:"
     + totalDeductions + ",Net Salary:" + netSalary;
 
 
