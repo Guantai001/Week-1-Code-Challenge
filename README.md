@@ -2,10 +2,10 @@
 (Toy Problem)
 
 
-   This project is divided into 3 Parts and there folders are named as;
-       -> Challenge 1 : Which is a Student Grade Generotor.
-       -> Challenge 2 : Which is a Speed Detector.
-       -> Challenge 3 : Which is a Net Salary Calculator.
+#### This project is divided into 3 Parts and there folders are named as;
+         -> Challenge 1 : Which is a Student Grade Generotor.
+         -> Challenge 2 : Which is a Speed Detector.
+         -> Challenge 3 : Which is a Net Salary Calculator.
 
 
 
@@ -13,7 +13,7 @@
 #### Student Grade Generotor (Toy Problem)
     This program enables the user to input students marks & the input should be between 0 and 100. Once you input the marks and click the button then your marks are graded as follows : A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 
-   The Projects has two files, HTML and JAVASCRIPT. The HTML file is user friendly and easy to use.It has the input area, the button and the out put text to show the result.
+    The Projects has two files, HTML and JAVASCRIPT. The HTML file is user friendly and easy to use.It has the input area, the button and the out put text to show the result.
 
 
 
