@@ -34,12 +34,16 @@
 ### Challenge 3
 ####  Net Salary Calculator (Toy Problem)
     The program is used to calculate your Net Salary.Once the net salary in input
-   it calculates and shows you the Gross Salary Payee NSSF Deductions and Total deductions.
+    it calculates and shows you the Gross Salary Payee NSSF Deductions and Total deductions.
     Its just a JavaScript program file.
 
 
 
-
+### Technologies Used
+     -> HTML
+       -> CSS
+         -> JavaScript
+             -> VisualStudio Code
 
 
 
